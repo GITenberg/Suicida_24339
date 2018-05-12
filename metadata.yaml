@@ -1,0 +1,41 @@
+_repo: Suicida_24339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Branco, Camilo Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_issued: '2008-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24339'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Pedro Saborano (produced from scanned images of public
+  domain material from Google Book Search)
+publication_note: "Porto:\r\nTypographia de A. J. da Silva Teixeira\r\nCancella Velha,\
+  \ 63\r\n1880"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Loève-Veimars, Elisa, 1805-1875'
+- !lcc 'CT'
+title: Suicida
+url: http://www.gutenberg.org/ebooks/24339
